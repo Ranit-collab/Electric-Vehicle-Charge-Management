@@ -13,5 +13,6 @@ Models used for classification -
 6. Artificial Neural Network (ANN),  
 7. XGBoost,
 8. CatBoost.
+
 For Time Series Analysis model used -
 Long Short-Term Memory (LSTM).
